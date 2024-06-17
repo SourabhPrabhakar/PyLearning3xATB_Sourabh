@@ -28,6 +28,7 @@ def allowed_to_attend_python_class(name):
         case _:
             print("Not Allowed")
 
+
 allowed_to_attend_python_class(input("Enter the name: "))
 
 

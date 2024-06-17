@@ -20,5 +20,6 @@ for i in range(1, Num2 + 1):
     Fact1 = Fact1 * i
     print(i, end=' ')
     if i < Num2:
+
         print("*", end=' ')
 print("\nFactorial: ", Fact1)

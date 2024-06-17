@@ -5,4 +5,5 @@ def allowed_to_enter_class(name,password):
     else:
         print("Not allowed")
 
+
 allowed_to_enter_class(input("Enter name: "), input("Enter password: "))
