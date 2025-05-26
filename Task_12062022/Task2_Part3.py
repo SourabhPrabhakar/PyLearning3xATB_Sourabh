@@ -20,6 +20,14 @@ for i in range(1, Num2 + 1):
     Fact1 = Fact1 * i
     print(i, end=' ')
     if i < Num2:
-
         print("*", end=' ')
 print("\nFactorial: ", Fact1)
+
+Num3 = int(input('Enter number:'))
+Fact3 = 1
+for i in range(1, Num3 + 1):
+    Fact3 = Fact3 * i
+    print(i, end=' ')
+    if i < Num3:
+        print("*", end=' ')
+print("\nFactorial: ", Fact3)
