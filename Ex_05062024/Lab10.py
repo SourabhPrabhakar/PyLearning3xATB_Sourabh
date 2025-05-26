@@ -15,7 +15,9 @@ print(type(name))
 # & = 86
 # $ = 234
 _ = 874
+print(_)
 _name = "Sourabh"
+print(_name)
 # $Sourabh = "Sourabh"
 # Sourabh$ = "Hello"
 
@@ -24,5 +26,8 @@ _name = "Sourabh"
 first_name = "Sourabh"
 # Python love the snake case
 varaible_name = "Sourabh"
-
+print(varaible_name)
 long_var_name_is_created_here = "Hello"
+print(long_var_name_is_created_here)
+
+First_Name = "Sourabh"

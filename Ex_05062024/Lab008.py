@@ -1,4 +1,4 @@
-# ✅ Dynamically typed
+  # ✅ Dynamically typed
 # Dynamic Type - Type of Data that Python supports.
 age = 65
 # variableName = variableValue
